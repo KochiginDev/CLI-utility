@@ -1,8 +1,6 @@
 package main
 
-import (
-	"net/http"
-)
+import ()
 
 func main() {
 
